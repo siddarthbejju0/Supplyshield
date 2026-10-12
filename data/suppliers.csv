@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,category,standard_lead_time_days,quoted_unit_cost,historical_on_time_rate_pct,historical_defect_rate_pct,capacity_units_per_day,minimum_order_quantity,financial_risk_score,sustainability_score
+SUP001,Apex Logistics & Components,United Kingdom,Electronics & Hardware,7,42.5,94.2,0.8,2500,100,18.0,85.0
+SUP002,Britannia Packaging & Goods,United Kingdom,Packaging & Supplies,5,4.2,96.5,0.4,8000,500,12.0,90.0
+SUP003,Rhine Precision Goods GmbH,Germany,Home & Kitchen,14,28.5,88.0,1.1,1800,200,25.0,78.0
+SUP004,Nordic Tech Solutions AB,Sweden,Electronics & Hardware,12,65.0,91.5,0.9,1200,150,20.0,92.0
+SUP005,Iberia Retail & Textiles S.L.,Spain,Apparel & Textiles,16,16.2,81.0,2.2,3000,300,38.0,70.0
+SUP006,FarEast Precision Micro Ltd,Taiwan,Electronics & Hardware,35,22.0,73.5,2.9,6000,1000,42.0,62.0
+SUP007,Baltic Paper & Logistics Sp.,Poland,Packaging & Supplies,18,6.8,84.5,1.6,4500,400,30.0,74.0
+SUP008,Trans-Alpine Appliances SpA,Italy,Home & Kitchen,21,54.0,77.0,2.5,1500,250,46.0,68.0
+SUP009,Celtic Consumer Goods Ltd,Ireland,Personal Care & Health,8,11.5,93.0,0.7,3500,200,15.0,88.0
+SUP010,Pacific Rim Plastics Co.,Vietnam,Home & Kitchen,42,7.2,68.0,3.4,7500,1200,55.0,54.0

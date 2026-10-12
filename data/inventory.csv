@@ -1,0 +1,25 @@
+product_id,product_name,category,supplier_id,current_stock_units,average_daily_demand_units,demand_std_dev_units,reorder_point_units,safety_stock_units,unit_value,target_service_level_pct,criticality
+SKU-ELC-001,Wireless IoT Sensor Hub,Electronics & Hardware,SUP001,450,45.0,8.5,400,85,75.0,95.0,High
+SKU-ELC-002,Ultra-Fast USB-C Controller,Electronics & Hardware,SUP006,280,50.0,12.0,2100,350,35.0,98.0,Critical
+SKU-ELC-003,Smart Energy Monitor Pro,Electronics & Hardware,SUP004,620,25.0,4.5,360,60,115.0,95.0,Medium
+SKU-ELC-004,Industrial Bluetooth Beacon,Electronics & Hardware,SUP001,90,30.0,6.0,260,50,52.0,95.0,High
+SKU-ELC-005,Micro-Controller Core Board,Electronics & Hardware,SUP006,1800,40.0,7.0,1600,200,28.0,92.0,Medium
+SKU-PKG-001,Eco Corrugated Shipping Box M,Packaging & Supplies,SUP002,4200,350.0,45.0,2100,350,5.8,98.0,High
+SKU-PKG-002,Biodegradable Bubble Mailer L,Packaging & Supplies,SUP002,850,200.0,30.0,1200,200,3.9,95.0,Medium
+SKU-PKG-003,Heavy-Duty Reinforced Tape,Packaging & Supplies,SUP007,1500,65.0,10.0,1350,180,8.5,90.0,Low
+SKU-PKG-004,Custom Printed Thermal Labels,Packaging & Supplies,SUP007,3200,110.0,15.0,2200,220,11.2,95.0,Medium
+SKU-HOM-001,Ergonomic Chef Knife 8-inch,Home & Kitchen,SUP003,550,22.0,4.0,360,52,48.0,95.0,Medium
+SKU-HOM-002,Cast Iron Skillet Pre-Seasoned,Home & Kitchen,SUP003,120,18.0,3.5,300,48,42.0,90.0,High
+SKU-HOM-003,Commercial Induction Cooktop,Home & Kitchen,SUP008,310,12.0,2.8,290,38,98.0,95.0,High
+SKU-HOM-004,Thermal Glass Carafe 1.5L,Home & Kitchen,SUP008,1400,15.0,3.0,360,45,24.5,85.0,Low
+SKU-HOM-005,Modular Food Storage Set (10pc),Home & Kitchen,SUP010,450,48.0,9.0,2350,334,18.5,95.0,Critical
+SKU-HOM-006,Airtight Pantry Bin Large,Home & Kitchen,SUP010,2800,35.0,6.0,1650,180,12.0,90.0,Medium
+SKU-APP-001,Organic Cotton Workwear Apron,Apparel & Textiles,SUP005,420,28.0,5.5,520,72,26.0,92.0,Medium
+SKU-APP-002,Merino Wool Thermal Base Layer,Apparel & Textiles,SUP005,180,22.0,4.5,410,58,45.0,95.0,High
+SKU-APP-003,Waterproof High-Vis Jacket,Apparel & Textiles,SUP005,850,16.0,3.0,290,34,68.0,90.0,Medium
+SKU-APP-004,Reinforced Utility Trousers,Apparel & Textiles,SUP005,1200,14.0,2.5,260,36,39.0,88.0,Low
+SKU-PER-001,Botanical Hand Sanitiser 500ml,Personal Care & Health,SUP009,3100,95.0,14.0,880,120,14.5,95.0,Medium
+SKU-PER-002,Organic Rosemary Hair Tonic,Personal Care & Health,SUP009,410,42.0,7.0,390,54,21.0,95.0,High
+SKU-PER-003,Eco Mineral Sunscreen SPF50,Personal Care & Health,SUP009,110,35.0,8.0,340,60,19.5,90.0,High
+SKU-PER-004,Aloe Vera Calming Gel 250ml,Personal Care & Health,SUP009,2200,30.0,4.5,280,40,12.0,90.0,Low
+SKU-ELC-006,Heavy-Duty Surge Protector Rack,Electronics & Hardware,SUP004,480,15.0,2.5,210,30,85.0,90.0,Low
